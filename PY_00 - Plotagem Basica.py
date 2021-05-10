@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
-x = [0, 1, 2, 3, 4, 5, 6, 7]
-y = [1, 2, 3, 2.5, 4, 7, 11.5, 6]
+x = [0, 1, 2, 3, 4, 5, 6]
+y = [1, 2, 3, 2.5, 4, 5.5, 3]
 
 plt.figure(figsize=(8, 6))
 plt.title("Plot de Desempenho", loc="left", fontsize=20)
